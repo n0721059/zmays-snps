@@ -17,3 +17,4 @@ git branch -M main
 git push -u origin main
 
 Samples expected from sequencing core 2013-01-10
+\n\nMaize reference genome version: refgen3
