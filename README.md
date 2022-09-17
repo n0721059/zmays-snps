@@ -16,3 +16,4 @@ git remote add origin https://github.com/n0721059/zmays-snps.git
 git branch -M main
 git push -u origin main
 
+Samples expected from sequencing core 2013-01-10
